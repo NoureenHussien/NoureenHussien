@@ -21,7 +21,7 @@
 
 ## 📂 Featured Projects
 - [Travel Analysis Dashboard](https://github.com/NoureenHussien/Travel-Analysis-Dashboard) – Power BI dashboard analyzing travel costs, trends, and demographics.
-- [Machine Learning Model Project](https://github.com/NoureenHussien/Machine-Learning-Model-Project) – Data cleaning and visualization with Python.
+- [Crime Data Analysis Project](https://github.com/NoureenHussien/Crime-Data-Analysis-Project) – Data cleaning and visualization with Python.
 
 ---
 
