@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Noureen Hussien]
+# 👋 Hi there, I'm Noureen Hussien
 
 💻 **Data Scientist | Power BI Enthusiast | Python Developer**  
 📊 Turning raw data into actionable insights.  
@@ -21,12 +21,12 @@
 
 ## 📂 Featured Projects
 - [Travel Analysis Dashboard](https://github.com/NoureenHussien/Travel-Analysis-Dashboard) – Power BI dashboard analyzing travel costs, trends, and demographics.
-- [Python Data Analysis Project](https://github.com/NoureenHussien/Python-Data-Analysis) – Data cleaning and visualization with Python.
+- [Machine Learning Model Project](https://github.com/NoureenHussien/Machine-Learning-Model-Project) – Data cleaning and visualization with Python.
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noureen-hussien-76a3932ab/)
+
 
 ---
