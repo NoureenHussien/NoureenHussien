@@ -55,8 +55,8 @@ I follow an **MLOps approach** for building robust, deployable models.
     <td width="33%">
       <div align="center">
         <h4>1. Starbucks Sentiment Analysis</h4>
-        <a href="https://github.com/NoureenHussien/Starbucks-Sentiment-Analysis" target="_blank">
-          <img src="https://via.placeholder.com/350x180/1A1A3F/00D1A3?text=NLP+Sentiment+Model" alt="Starbucks Project Image" style="border-radius:10px;"/>
+        <a href="Starbucks_Sentiment_Analysis" target="_blank">
+          <img src="Starbucks_Sentiment_Analysis.png" alt="Starbucks Project Image" style="border-radius:10px;"/>
         </a>
         <p><strong><small>Key Skill: NLP, Text Classification, TextBlob</small></strong></p>
         <p><small>Classifying public reviews to extract granular market feedback.</small></p>
@@ -69,7 +69,7 @@ I follow an **MLOps approach** for building robust, deployable models.
       <div align="center">
         <h4>2. Superstore Sales Dashboard</h4>
         <a href="https://github.com/NoureenHussien/Superstore-Dashboard" target="_blank">
-          <img src="https://via.placeholder.com/350x180/1A1A3F/00BFFF?text=Streamlit+Interactive+Dashboard" alt="Superstore Project Image" style="border-radius:10px;"/>
+          <img src="Superstore_Sales_Dashboard.png" alt="Superstore Project Image" style="border-radius:10px;"/>
         </a>
         <p><strong><small>Key Skill: Streamlit, Plotly, Real-time Viz</small></strong></p>
         <p><small>Interactive dashboard for sales trend analysis and data exploration.</small></p>
@@ -82,7 +82,7 @@ I follow an **MLOps approach** for building robust, deployable models.
       <div align="center">
         <h4>3. Boston Housing Prediction</h4>
         <a href="https://github.com/NoureenHussien/Boston-Housing-Prediction" target="_blank">
-          <img src="https://via.placeholder.com/350x180/1A1A3F/E0E0FF?text=Regression+Model" alt="Housing Project Image" style="border-radius:10px;"/>
+          <img src="Boston_Housing_Prediction.png" alt="Housing Project Image" style="border-radius:10px;"/>
         </a>
         <p><strong><small>Key Skill: Regression, Model Validation, Scikit-learn</small></strong></p>
         <p><small>Predictive model achieving high $R^2$ score on complex spatial data.</small></p>
