@@ -1,5 +1,5 @@
 <p align="Right">
-  <img src="path_to_your_logo.png" alt="Noureen Hussien Logo" width="120" />
+  <img src="Noureen_Hussien_Logo.avif" alt="Noureen Hussien Logo" width="120" />
 </p>
 
 # 👋 Hi, I'm Noureen Hussien
