@@ -1,4 +1,4 @@
-<p align="center">
+<p align="Right">
   <img src="path_to_your_logo.png" alt="Noureen Hussien Logo" width="120" />
 </p>
 
