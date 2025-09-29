@@ -25,7 +25,6 @@ I specialize in **end-to-end Machine Learning pipelines**, focusing on **Deep Le
 
 ### 🤖 ML/DL Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
 </p>
@@ -48,7 +47,6 @@ I specialize in **end-to-end Machine Learning pipelines**, focusing on **Deep Le
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 </p>
 </details>
 
@@ -93,7 +91,7 @@ I follow an **MLOps approach** for building robust, deployable models.
     </td>
     <td width="33%">
       <div align="center">
-        <h4>3. Boston Housing Prediction</h4>
+        <h4></br>3. Boston Housing Prediction</h4>
         <a href="https://github.com/NoureenHussien/Boston-Housing-Prediction" target="_blank">
           <img src="Boston_Housing_Prediction.png" alt="Housing Project Image" style="border-radius:10px;"/>
         </a>
