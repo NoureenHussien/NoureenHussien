@@ -13,8 +13,13 @@
 I specialize in **end-to-end Machine Learning pipelines**, focusing on **Deep Learning, NLP**, and **Cloud Infrastructure**. My goal is to architect intelligent, scalable systems.
 
 <details>
-<summary><strong><h3 style="display:inline-block;">Expand Technical Stack Details 🛠️</h3></strong></summary>
+<summary>
+  <strong>
+    <span style="font-size: 1.2em; font-weight: bold;">Expand Technical Stack Details 🛠️</span>
+  </strong>
+</summary>
 <br>
+
 
 ### 🐍 Programming Languages
 <p>
