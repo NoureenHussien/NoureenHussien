@@ -139,7 +139,7 @@ I follow an **MLOps approach** for building robust, deployable models.
   <a href="mailto:noureenhessain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="link-to-your-portfolio.html" target="_blank">
+  <a href="https://noureenhessain4.wixsite.com/my-site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
