@@ -12,10 +12,10 @@
 
 I specialize in **end-to-end Machine Learning pipelines**, focusing on **Deep Learning, NLP**, and **Cloud Infrastructure**. My goal is to architect intelligent, scalable systems.
 
-<details>
+
 <summary>
   <strong>
-    <span style="font-size: 1.2em; font-weight: bold;">Expand Technical Stack Details 🛠️</span>
+    <span style="font-size: 1.2em; font-weight: bold;"> Technical Stack 🛠️</span>
   </strong>
 </summary>
 <br>
@@ -53,7 +53,7 @@ I specialize in **end-to-end Machine Learning pipelines**, focusing on **Deep Le
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 </p>
-</details>
+
 
 
 ---
@@ -62,8 +62,8 @@ I specialize in **end-to-end Machine Learning pipelines**, focusing on **Deep Le
 
 I follow an **MLOps approach** for building robust, deployable models.
 
-<details>
-<summary><strong><h3 style="display:inline-block;">Expand Project Portfolio 📂</h3></strong></summary>
+
+<summary><strong><h3 style="display:inline-block;">Project Portfolio 📂</h3></strong></summary>
 <br>
 
 <table width="100%">
@@ -110,7 +110,7 @@ I follow an **MLOps approach** for building robust, deployable models.
   </tr>
 </table>
 
-</details>
+
 
 ---
 
